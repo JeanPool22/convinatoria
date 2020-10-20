@@ -1,8 +1,7 @@
 """
-Calculadora de combinatoria simpre, compuesta y principio de multiplicación
+Calculadora de combinatoria simple, compuesta y principio de multiplicación
 Elaborado por:
 Jean Pool Zambrano Hernandez
-Jean Carlos Garzón Buitrago
 """
 
 #Combinatoria-------------------------------------------------------------------------------------------------------------
